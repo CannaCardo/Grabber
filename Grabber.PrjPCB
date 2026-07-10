@@ -532,25 +532,29 @@ ParamVariation6=ParameterName=Comment|VariantValue==Familly
 ParamDesignator6=T_J3
 ParamVariationCount=6
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Grabber\Design Rule Check - Grabber_DIOT.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=P_author1
-Value=Grzegorz Kasprowicz
+Name=P_version
+Value=2.0.0
 
 [Parameter2]
-Name=P_author2
-Value=Maciej Przybysz, Marta Fąfara
+Name=P_github_link
+Value=https://github.com/sinara-hw/Grabber
 
 [Parameter3]
 Name=P_author3
 Value=Krzysztof Belewicz
 
 [Parameter4]
-Name=P_github_link
-Value=https://github.com/sinara-hw/Grabber
+Name=P_author2
+Value=Maciej Przybysz, Marta Fąfara
 
 [Parameter5]
-Name=P_version
-Value=1.1.3
+Name=P_author1
+Value=Grzegorz Kasprowicz
 
 [Configuration1]
 Name=Sources
