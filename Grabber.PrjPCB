@@ -581,32 +581,32 @@ ParamDesignator6=T_J3
 ParamVariationCount=6
 
 [Parameter1]
-Name=P_copyright_owner
-Value=WUT ISE 2024-2025 · Technosystem 2025-2026
+Name=P_version
+Value=2.0
 
 [Parameter2]
-Name=P_github_link
-Value=https://github.com/sinara-hw/Grabber
+Name=P_template_version
+Value=1.4
 
 [Parameter3]
-Name=P_release_designers
-Value=Krzysztof Belewicz (WUT ISE)
+Name=P_release_reviewers
+Value=Maciej Przybysz (TS), Marta Fąfara (TS)
 
 [Parameter4]
 Name=P_release_owner
 Value=Mikołaj Sowiński (TS)
 
 [Parameter5]
-Name=P_release_reviewers
-Value=Maciej Przybysz (TS), Marta Fąfara (TS)
+Name=P_release_designers
+Value=Krzysztof Belewicz (WUT ISE)
 
 [Parameter6]
-Name=P_template_version
-Value=1.4
+Name=P_github_link
+Value=https://github.com/sinara-hw/Grabber
 
 [Parameter7]
-Name=P_version
-Value=2.0
+Name=P_copyright_owner
+Value=WUT ISE 2024-2026 · Technosystem 2025-2026
 
 [Configuration1]
 Name=Sources

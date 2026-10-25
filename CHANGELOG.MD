@@ -1,38 +1,89 @@
 # CHANGELOG
 
-All notable changes to the DIOT-Template are documented in this file.
+All notable changes to Grabber-DIOT are documented in this file.
 
-## v1.4
+## v2.0
 
-- T_C1, T_C2 changed to CC0805_4.7UF_16V_10%_X7R
-- T_C32, T_C27, T_C40, T_C41, T_C54, T_C55, T_C57 changed to CC0805_4.7UF_16V_10%_X7R
-- T_C54 position on schematic sheet changed
-- Frames on FPGA_Bank2-3.SchDoc changed
-- T_R70, T_R71 moved from FPGA_Bank2-3 to FPGA_Config sheet
-- Project tree modified
-- T_R3, T_R8 changed 0603 -> 0402
-- Variant jumper frame and designator of T_R2 on Power_Supplies.SchDoc moved
-- T_C22, T_C23, T_C24, T_C25, T_C28, T_C29, T_C30, T_C31, T_C33, T_C34, T_C35, T_C36, T_C37, T_C38, T_C39, T_C42, T_C43, T_C44, T_C45, T_C46, T_C47, T_C48, T_C49, T_C50, T_C51, T_C52, T_C53, T_C56, T_C58 changed to CC0402_100NF_50V_10%_X7R (was 100nF/16V)
-- project tree updated
-- Missing FPGA_CFG Harness type (Sheet symbol: LEDs.SchDoc / Sheet entry: FPGA_CFG) updated
-- Missing I2C Harness type (Sheet: FPGA.SchDoc / port: EEM0_I2C) updated
-- Missing I2C Harness type (Sheet symbol: FPGA.SchDoc / Sheet entry: EEM0_I2C) updated
-- Snap grid and visible grid set to 100mil, components/wires/ports and other elements on SchDoc grid-aligned
+All schematic files updated according to DIOT template v1.4.  
+Changes in respect to the previous revision:
 
-**Release owner:** Maciej Przybysz (Technosystem)
+added project parameters:
+- link to repository  
+- version number, moved to 2.0
+- authors, contributors, reviewers 
+
+Grabber_DIOT.SchDoc:
+- added note about EEM/DIOT pair count mismatch (#12)
+- merged old pages "Grabber_DIOT_TOP.SchDoc" and "Grabber_DIOT.SchDoc"
+- moved EEPROMs, fiducials, mounting holes, ESD strips, front panel connectors, power LEDs/testpoints to their dedicated pages
+- LVDS_repeater sheet symbol blocks renamed to U_LVDS_repeaterN
+- misaligned U_LVDS_repeater block shifted
+
+LVDS_repeater.SchDoc:
+- C47 changed from 0402 100nF 16V to 0402 100nF 50V to reduce BOM count
+- improved readability
+- pin swapped TVS diode for easier routing
+- TVS diode changed from NUP4114UPXV6T1G to D1213A-04V-7
+
+Power_Supplies.SchDoc
+- added power budget
+- 3V3 DCDC regulator divider corrected from 3.43V to 3.3V
+- C67/C65/C59 changed from 0402 100nF 16V to 0402 100nF 50V to reduce BOM count
+
+FP_Connectors.SchDoc
+- J1/J2 moved here from Top level page in previous revision
+- aligned net labels and improved readability
+
+EEM_Connectors.SchDoc
+- added note about EEM/DIOT pair count mismatch (#12)
+
+Temperature_monitoring.SchDoc
+- corrected pull-up note on  to point to Power_Supplies.SchDoc
+
+PCB changes:
+- fixed board outline, front panel connectors positioned according to lower-left FP mounting hole in previous revision
+- added case mounting holes/ ESD strips/ keepout regions from DIOT template
+- added front panel/case 3d models from DIOT template
+- layers renamed to match DIOT template
+- vias changed to 0.25/0.5 to match aisler base requirements
+- rules modified to match aisler base requirements (min. trace/separation)
+- drc masking fixed to actually check said rules
+- Updated stackup to the unified 4 layer 1.6mm version
+- length matched DIOT/EEM signals
+- corrected impedance geometry table values
+- rearranged LVDS drivers for better routing, fixed shared GND vias
+- fixed GND plane discontinuity below LVDS pairs (P3V3 plane below LVDS drivers, P12V0 plane below BP signals)
+- majority of LVDS pairs moved to bottom layer to reduce stubs to connector pins and TVS diodes at LVDS drivers
+- reduced amount of layer changes for LVDS pairs between EEM-DIOT connectors
+- fixed xSignal CL_LVDS incorrectly routing through TVS diode at LVDS drivers (nets YCLK, ZCLK, Z3)
+- synchronized rooms/footprint names with schematic
+- cleared lingering DRC violations
+- corrected Unrouted Net rule
+- changed bottom layer allowed height to 1.6mm
+- removed unused rules from the project
+- L2/P3V3 connection marked in rules and corrected
+- adjusted copper balancing dimensions/ clearances
+- improved P12V0 polygon on top layer
+- differential traces CC3, CC1, XCLK, X1 - added more GND vias near layer change
+- copper balancing keepout pattern left outside of the board
+- front panel LEDs changed to Dialight 571-0112F, adjusted connector positions
+- added note about ZCLK/ Z0-Z3 on the silkscreen layer
+
+**Release owner:** Mikołaj Sowiński (TS)
 
 **Designers:** 
-- Maciej Przybysz (TS)
+- Krzysztof Belewicz (WUT)
 
 **Reviewers:** 
-- Marcin Kiepiela (TS)
+- Maciej Przybysz (TS)
 - Marta Fąfara (TS)
 
 **Contributors:** 
-- Mikołaj Sowiński (TS)
+- Marcin Kiepiela (TS)
 
 **Funded by:** 
-- TechnoSystem
+- WUT ISE
+- Technosystem
 
 
 ---
@@ -41,10 +92,11 @@ All notable changes to the DIOT-Template are documented in this file.
 
 **Designers:**
 - Grzegorz Kasprowicz (WUT)
-- Marta Fąfara (TS)
+- Mariusz Mróz (WUT)
+- Maciej Przybysz (TS)
 
 **Reviewers:**
 - unspecified
 
 **Contributors:**
-- Marcin Magdziak (TS)
+- unspecified
