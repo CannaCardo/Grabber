@@ -378,7 +378,7 @@ UniqueId=A2FB463C-E379-4070-9A11-B2A9E4752451
 Description=EEM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=40
+VariationCount=39
 Variation1=Designator=T_IC3|UniqueId=\HFXIRERH\RTXDXYRA|Kind=1|AlternatePart==Device
 ParamVariation1=ParameterName=Comment|VariantValue==Device
 ParamDesignator1=T_IC3
@@ -390,172 +390,169 @@ Variation4=Designator=T_J5|UniqueId=\RTXBABPE\HQYQOTEN|Kind=1|AlternatePart=
 Variation5=Designator=T_R2|UniqueId=\TAKSADSN\EZQFAHGR|Kind=1|AlternatePart==Value
 ParamVariation3=ParameterName=Comment|VariantValue==Value
 ParamDesignator3=T_R2
-Variation6=Designator=T_R4|UniqueId=\TAKSADSN\LUJFTZCK|Kind=1|AlternatePart==Value
+Variation6=Designator=T_R35|UniqueId=\RTXBABPE\FAOCJAEQ\UFDRMWAP|Kind=1|AlternatePart==Value
 ParamVariation4=ParameterName=Comment|VariantValue==Value
-ParamDesignator4=T_R4
-Variation7=Designator=T_R35|UniqueId=\RTXBABPE\FAOCJAEQ\UFDRMWAP|Kind=1|AlternatePart==Value
+ParamDesignator4=T_R35
+Variation7=Designator=T_R36|UniqueId=\RTXBABPE\FAOCJAEQ\BBYQRIAR|Kind=1|AlternatePart==Value
 ParamVariation5=ParameterName=Comment|VariantValue==Value
-ParamDesignator5=T_R35
-Variation8=Designator=T_R36|UniqueId=\RTXBABPE\FAOCJAEQ\BBYQRIAR|Kind=1|AlternatePart==Value
+ParamDesignator5=T_R36
+Variation8=Designator=T_R37|UniqueId=\RTXBABPE\FAOCJAEQ\XODSKGYF|Kind=1|AlternatePart==Value
 ParamVariation6=ParameterName=Comment|VariantValue==Value
-ParamDesignator6=T_R36
-Variation9=Designator=T_R37|UniqueId=\RTXBABPE\FAOCJAEQ\XODSKGYF|Kind=1|AlternatePart==Value
+ParamDesignator6=T_R37
+Variation9=Designator=T_R38|UniqueId=\RTXBABPE\FAOCJAEQ\SVLOVJOA|Kind=1|AlternatePart==Value
 ParamVariation7=ParameterName=Comment|VariantValue==Value
-ParamDesignator7=T_R37
-Variation10=Designator=T_R38|UniqueId=\RTXBABPE\FAOCJAEQ\SVLOVJOA|Kind=1|AlternatePart==Value
+ParamDesignator7=T_R38
+Variation10=Designator=T_R39|UniqueId=\RTXBABPE\FAOCJAEQ\BBCKDUSC|Kind=1|AlternatePart==Value
 ParamVariation8=ParameterName=Comment|VariantValue==Value
-ParamDesignator8=T_R38
-Variation11=Designator=T_R39|UniqueId=\RTXBABPE\FAOCJAEQ\BBCKDUSC|Kind=1|AlternatePart==Value
+ParamDesignator8=T_R39
+Variation11=Designator=T_R40|UniqueId=\RTXBABPE\FAOCJAEQ\CSMGJJAM|Kind=1|AlternatePart==Value
 ParamVariation9=ParameterName=Comment|VariantValue==Value
-ParamDesignator9=T_R39
-Variation12=Designator=T_R40|UniqueId=\RTXBABPE\FAOCJAEQ\CSMGJJAM|Kind=1|AlternatePart==Value
+ParamDesignator9=T_R40
+Variation12=Designator=T_R41|UniqueId=\RTXBABPE\FAOCJAEQ\FZSYENJE|Kind=1|AlternatePart==Value
 ParamVariation10=ParameterName=Comment|VariantValue==Value
-ParamDesignator10=T_R40
-Variation13=Designator=T_R41|UniqueId=\RTXBABPE\FAOCJAEQ\FZSYENJE|Kind=1|AlternatePart==Value
+ParamDesignator10=T_R41
+Variation13=Designator=T_R42|UniqueId=\RTXBABPE\FAOCJAEQ\YYWGNKZV|Kind=1|AlternatePart==Value
 ParamVariation11=ParameterName=Comment|VariantValue==Value
-ParamDesignator11=T_R41
-Variation14=Designator=T_R42|UniqueId=\RTXBABPE\FAOCJAEQ\YYWGNKZV|Kind=1|AlternatePart==Value
+ParamDesignator11=T_R42
+Variation14=Designator=T_R43|UniqueId=\RTXBABPE\FAOCJAEQ\PBEULLFQ|Kind=1|AlternatePart==Value
 ParamVariation12=ParameterName=Comment|VariantValue==Value
-ParamDesignator12=T_R42
-Variation15=Designator=T_R43|UniqueId=\RTXBABPE\FAOCJAEQ\PBEULLFQ|Kind=1|AlternatePart==Value
+ParamDesignator12=T_R43
+Variation15=Designator=T_R44|UniqueId=\RTXBABPE\FAOCJAEQ\ILFLVVPB|Kind=1|AlternatePart==Value
 ParamVariation13=ParameterName=Comment|VariantValue==Value
-ParamDesignator13=T_R43
-Variation16=Designator=T_R44|UniqueId=\RTXBABPE\FAOCJAEQ\ILFLVVPB|Kind=1|AlternatePart==Value
+ParamDesignator13=T_R44
+Variation16=Designator=T_R45|UniqueId=\RTXBABPE\FAOCJAEQ\KWKDNNPY|Kind=1|AlternatePart==Value
 ParamVariation14=ParameterName=Comment|VariantValue==Value
-ParamDesignator14=T_R44
-Variation17=Designator=T_R45|UniqueId=\RTXBABPE\FAOCJAEQ\KWKDNNPY|Kind=1|AlternatePart==Value
+ParamDesignator14=T_R45
+Variation17=Designator=T_R46|UniqueId=\RTXBABPE\FAOCJAEQ\HTMWYZEP|Kind=1|AlternatePart==Value
 ParamVariation15=ParameterName=Comment|VariantValue==Value
-ParamDesignator15=T_R45
-Variation18=Designator=T_R46|UniqueId=\RTXBABPE\FAOCJAEQ\HTMWYZEP|Kind=1|AlternatePart==Value
+ParamDesignator15=T_R46
+Variation18=Designator=T_R47|UniqueId=\RTXBABPE\FAOCJAEQ\BOSZJSAH|Kind=1|AlternatePart==Value
 ParamVariation16=ParameterName=Comment|VariantValue==Value
-ParamDesignator16=T_R46
-Variation19=Designator=T_R47|UniqueId=\RTXBABPE\FAOCJAEQ\BOSZJSAH|Kind=1|AlternatePart==Value
+ParamDesignator16=T_R47
+Variation19=Designator=T_R48|UniqueId=\RTXBABPE\FAOCJAEQ\HYLSSGRY|Kind=1|AlternatePart==Value
 ParamVariation17=ParameterName=Comment|VariantValue==Value
-ParamDesignator17=T_R47
-Variation20=Designator=T_R48|UniqueId=\RTXBABPE\FAOCJAEQ\HYLSSGRY|Kind=1|AlternatePart==Value
+ParamDesignator17=T_R48
+Variation20=Designator=T_R49|UniqueId=\RTXBABPE\FAOCJAEQ\ZCLYVSSS|Kind=1|AlternatePart==Value
 ParamVariation18=ParameterName=Comment|VariantValue==Value
-ParamDesignator18=T_R48
-Variation21=Designator=T_R49|UniqueId=\RTXBABPE\FAOCJAEQ\ZCLYVSSS|Kind=1|AlternatePart==Value
+ParamDesignator18=T_R49
+Variation21=Designator=T_R51|UniqueId=\RTXBABPE\FAOCJAEQ\EOXUFUAF|Kind=1|AlternatePart==Value
 ParamVariation19=ParameterName=Comment|VariantValue==Value
-ParamDesignator19=T_R49
-Variation22=Designator=T_R51|UniqueId=\RTXBABPE\FAOCJAEQ\EOXUFUAF|Kind=1|AlternatePart==Value
+ParamDesignator19=T_R51
+Variation22=Designator=T_R52|UniqueId=\RTXBABPE\FAOCJAEQ\RIMSAWXF|Kind=1|AlternatePart==Value
 ParamVariation20=ParameterName=Comment|VariantValue==Value
-ParamDesignator20=T_R51
-Variation23=Designator=T_R52|UniqueId=\RTXBABPE\FAOCJAEQ\RIMSAWXF|Kind=1|AlternatePart==Value
+ParamDesignator20=T_R52
+Variation23=Designator=T_R53|UniqueId=\RTXBABPE\FAOCJAEQ\QHDFFZKE|Kind=1|AlternatePart==Value
 ParamVariation21=ParameterName=Comment|VariantValue==Value
-ParamDesignator21=T_R52
-Variation24=Designator=T_R53|UniqueId=\RTXBABPE\FAOCJAEQ\QHDFFZKE|Kind=1|AlternatePart==Value
+ParamDesignator21=T_R53
+Variation24=Designator=T_R54|UniqueId=\RTXBABPE\FAOCJAEQ\SGGXRUSM|Kind=1|AlternatePart==Value
 ParamVariation22=ParameterName=Comment|VariantValue==Value
-ParamDesignator22=T_R53
-Variation25=Designator=T_R54|UniqueId=\RTXBABPE\FAOCJAEQ\SGGXRUSM|Kind=1|AlternatePart==Value
+ParamDesignator22=T_R54
+Variation25=Designator=T_R55|UniqueId=\RTXBABPE\FAOCJAEQ\QAOKFMGX|Kind=1|AlternatePart==Value
 ParamVariation23=ParameterName=Comment|VariantValue==Value
-ParamDesignator23=T_R54
-Variation26=Designator=T_R55|UniqueId=\RTXBABPE\FAOCJAEQ\QAOKFMGX|Kind=1|AlternatePart==Value
+ParamDesignator23=T_R55
+Variation26=Designator=T_R56|UniqueId=\RTXBABPE\FAOCJAEQ\ZFAOCIFB|Kind=1|AlternatePart==Value
 ParamVariation24=ParameterName=Comment|VariantValue==Value
-ParamDesignator24=T_R55
-Variation27=Designator=T_R56|UniqueId=\RTXBABPE\FAOCJAEQ\ZFAOCIFB|Kind=1|AlternatePart==Value
+ParamDesignator24=T_R56
+Variation27=Designator=T_R57|UniqueId=\RTXBABPE\FAOCJAEQ\MFDTDUTN|Kind=1|AlternatePart==Value
 ParamVariation25=ParameterName=Comment|VariantValue==Value
-ParamDesignator25=T_R56
-Variation28=Designator=T_R57|UniqueId=\RTXBABPE\FAOCJAEQ\MFDTDUTN|Kind=1|AlternatePart==Value
+ParamDesignator25=T_R57
+Variation28=Designator=T_R58|UniqueId=\RTXBABPE\FAOCJAEQ\FCICBESS|Kind=1|AlternatePart==Value
 ParamVariation26=ParameterName=Comment|VariantValue==Value
-ParamDesignator26=T_R57
-Variation29=Designator=T_R58|UniqueId=\RTXBABPE\FAOCJAEQ\FCICBESS|Kind=1|AlternatePart==Value
+ParamDesignator26=T_R58
+Variation29=Designator=T_R59|UniqueId=\RTXBABPE\FAOCJAEQ\QSRJXXOQ|Kind=1|AlternatePart==Value
 ParamVariation27=ParameterName=Comment|VariantValue==Value
-ParamDesignator27=T_R58
-Variation30=Designator=T_R59|UniqueId=\RTXBABPE\FAOCJAEQ\QSRJXXOQ|Kind=1|AlternatePart==Value
+ParamDesignator27=T_R59
+Variation30=Designator=T_R60|UniqueId=\RTXBABPE\FAOCJAEQ\GUAHVZYP|Kind=1|AlternatePart==Value
 ParamVariation28=ParameterName=Comment|VariantValue==Value
-ParamDesignator28=T_R59
-Variation31=Designator=T_R60|UniqueId=\RTXBABPE\FAOCJAEQ\GUAHVZYP|Kind=1|AlternatePart==Value
+ParamDesignator28=T_R60
+Variation31=Designator=T_R61|UniqueId=\RTXBABPE\FAOCJAEQ\JXHDOWSZ|Kind=1|AlternatePart==Value
 ParamVariation29=ParameterName=Comment|VariantValue==Value
-ParamDesignator29=T_R60
-Variation32=Designator=T_R61|UniqueId=\RTXBABPE\FAOCJAEQ\JXHDOWSZ|Kind=1|AlternatePart==Value
+ParamDesignator29=T_R61
+Variation32=Designator=T_R62|UniqueId=\RTXBABPE\FAOCJAEQ\DYZZUGDB|Kind=1|AlternatePart==Value
 ParamVariation30=ParameterName=Comment|VariantValue==Value
-ParamDesignator30=T_R61
-Variation33=Designator=T_R62|UniqueId=\RTXBABPE\FAOCJAEQ\DYZZUGDB|Kind=1|AlternatePart==Value
+ParamDesignator30=T_R62
+Variation33=Designator=T_R63|UniqueId=\RTXBABPE\FAOCJAEQ\VRQNEEPG|Kind=1|AlternatePart==Value
 ParamVariation31=ParameterName=Comment|VariantValue==Value
-ParamDesignator31=T_R62
-Variation34=Designator=T_R63|UniqueId=\RTXBABPE\FAOCJAEQ\VRQNEEPG|Kind=1|AlternatePart==Value
+ParamDesignator31=T_R63
+Variation34=Designator=T_R64|UniqueId=\RTXBABPE\FAOCJAEQ\CYUDHJQD|Kind=1|AlternatePart==Value
 ParamVariation32=ParameterName=Comment|VariantValue==Value
-ParamDesignator32=T_R63
-Variation35=Designator=T_R64|UniqueId=\RTXBABPE\FAOCJAEQ\CYUDHJQD|Kind=1|AlternatePart==Value
+ParamDesignator32=T_R64
+Variation35=Designator=T_R65|UniqueId=\RTXBABPE\FAOCJAEQ\BWGTVLGK|Kind=1|AlternatePart==Value
 ParamVariation33=ParameterName=Comment|VariantValue==Value
-ParamDesignator33=T_R64
-Variation36=Designator=T_R65|UniqueId=\RTXBABPE\FAOCJAEQ\BWGTVLGK|Kind=1|AlternatePart==Value
+ParamDesignator33=T_R65
+Variation36=Designator=T_R50|UniqueId=\RTXBABPE\FAOCJAEQ\JAPDFCAN|Kind=1|AlternatePart==Value
 ParamVariation34=ParameterName=Comment|VariantValue==Value
-ParamDesignator34=T_R65
-Variation37=Designator=T_R50|UniqueId=\RTXBABPE\FAOCJAEQ\JAPDFCAN|Kind=1|AlternatePart==Value
+ParamDesignator34=T_R50
+Variation37=Designator=T_R66|UniqueId=\RTXBABPE\FAOCJAEQ\FBDXGQAH|Kind=1|AlternatePart==Value
 ParamVariation35=ParameterName=Comment|VariantValue==Value
-ParamDesignator35=T_R50
-Variation38=Designator=T_R66|UniqueId=\RTXBABPE\FAOCJAEQ\FBDXGQAH|Kind=1|AlternatePart==Value
+ParamDesignator35=T_R66
+Variation38=Designator=T_R26|UniqueId=\YQRJPEFU\TSKLTSUH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Maciek\OneDrive\Technosystem\cernlib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=R0805_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=RESC2012X60N|AltLibLink_IsSameFootprint=True
 ParamVariation36=ParameterName=Comment|VariantValue==Value
-ParamDesignator36=T_R66
-Variation39=Designator=T_R26|UniqueId=\YQRJPEFU\TSKLTSUH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Maciek\OneDrive\Technosystem\cernlib\Resistors.DbLib/Resistors SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=R0805_0R_JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=RESC2012X60N|AltLibLink_IsSameFootprint=True
-ParamVariation37=ParameterName=Comment|VariantValue==Value
+ParamDesignator36=T_R26
+ParamVariation37=ParameterName=Case|VariantValue=0805
 ParamDesignator37=T_R26
-ParamVariation38=ParameterName=Case|VariantValue=0805
+ParamVariation38=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator38=T_R26
-ParamVariation39=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation39=ParameterName=Component Type|VariantValue=Standard
 ParamDesignator39=T_R26
-ParamVariation40=ParameterName=Component Type|VariantValue=Standard
+ParamVariation40=ParameterName=CreateDate|VariantValue=03.12.2007
 ParamDesignator40=T_R26
-ParamVariation41=ParameterName=CreateDate|VariantValue=03.12.2007
+ParamVariation41=ParameterName=Database Table Name|VariantValue=Resistors SMD
 ParamDesignator41=T_R26
-ParamVariation42=ParameterName=Database Table Name|VariantValue=Resistors SMD
+ParamVariation42=ParameterName=Description|VariantValue=Resistor
 ParamDesignator42=T_R26
-ParamVariation43=ParameterName=Description|VariantValue=Resistor
+ParamVariation43=ParameterName=Footprint|VariantValue=RESC2012X60N
 ParamDesignator43=T_R26
-ParamVariation44=ParameterName=Footprint|VariantValue=RESC2012X60N
+ParamVariation44=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0805_NIC_NRC.pdf
 ParamDesignator44=T_R26
-ParamVariation45=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R0805_NIC_NRC.pdf
+ParamVariation45=ParameterName=Ibis Model|VariantValue=
 ParamDesignator45=T_R26
-ParamVariation46=ParameterName=Ibis Model|VariantValue=
+ParamVariation46=ParameterName=LatestRevisionDate|VariantValue=13.03.2008
 ParamDesignator46=T_R26
-ParamVariation47=ParameterName=LatestRevisionDate|VariantValue=13.03.2008
+ParamVariation47=ParameterName=Library Reference|VariantValue=R0805_0R_JUMPER
 ParamDesignator47=T_R26
-ParamVariation48=ParameterName=Library Reference|VariantValue=R0805_0R_JUMPER
+ParamVariation48=ParameterName=Manufacturer|VariantValue=GENERIC
 ParamDesignator48=T_R26
-ParamVariation49=ParameterName=Manufacturer|VariantValue=GENERIC
+ParamVariation49=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.6mm
 ParamDesignator49=T_R26
-ParamVariation50=ParameterName=Manufacturer1 ComponentHeight|VariantValue=0.6mm
+ParamVariation50=ParameterName=Manufacturer1 Example|VariantValue=NIC COMPONENT
 ParamDesignator50=T_R26
-ParamVariation51=ParameterName=Manufacturer1 Example|VariantValue=NIC COMPONENT
+ParamVariation51=ParameterName=Manufacturer1 Part Number|VariantValue=NRC10Z0
 ParamDesignator51=T_R26
-ParamVariation52=ParameterName=Manufacturer1 Part Number|VariantValue=NRC10Z0
+ParamVariation52=ParameterName=Manufacturer Part Number|VariantValue=R0805_0R_JUMPER
 ParamDesignator52=T_R26
-ParamVariation53=ParameterName=Manufacturer Part Number|VariantValue=R0805_0R_JUMPER
+ParamVariation53=ParameterName=Mounted|VariantValue=Yes
 ParamDesignator53=T_R26
-ParamVariation54=ParameterName=Mounted|VariantValue=Yes
+ParamVariation54=ParameterName=Part Description|VariantValue=2A (0.05R Max DC Resistance) Zero Ohm Jumper
 ParamDesignator54=T_R26
-ParamVariation55=ParameterName=Part Description|VariantValue=2A (0.05R Max DC Resistance) Zero Ohm Jumper
+ParamVariation55=ParameterName=Part Number|VariantValue=R0805_0R_JUMPER
 ParamDesignator55=T_R26
-ParamVariation56=ParameterName=Part Number|VariantValue=R0805_0R_JUMPER
+ParamVariation56=ParameterName=PCB3D|VariantValue=
 ParamDesignator56=T_R26
-ParamVariation57=ParameterName=PCB3D|VariantValue=
+ParamVariation57=ParameterName=Pin Count|VariantValue=2
 ParamDesignator57=T_R26
-ParamVariation58=ParameterName=Pin Count|VariantValue=2
+ParamVariation58=ParameterName=Pin Info|VariantValue=
 ParamDesignator58=T_R26
-ParamVariation59=ParameterName=Pin Info|VariantValue=
+ParamVariation59=ParameterName=PressFit|VariantValue=No
 ParamDesignator59=T_R26
-ParamVariation60=ParameterName=PressFit|VariantValue=No
+ParamVariation60=ParameterName=Sense|VariantValue=No
 ParamDesignator60=T_R26
-ParamVariation61=ParameterName=Sense|VariantValue=No
+ParamVariation61=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator61=T_R26
-ParamVariation62=ParameterName=Signal Integrity|VariantValue=
+ParamVariation62=ParameterName=Simulation|VariantValue=
 ParamDesignator62=T_R26
-ParamVariation63=ParameterName=Simulation|VariantValue=
+ParamVariation63=ParameterName=SMD|VariantValue=Yes
 ParamDesignator63=T_R26
-ParamVariation64=ParameterName=SMD|VariantValue=Yes
+ParamVariation64=ParameterName=Socket|VariantValue=No
 ParamDesignator64=T_R26
-ParamVariation65=ParameterName=Socket|VariantValue=No
+ParamVariation65=ParameterName=Status|VariantValue=Preferred
 ParamDesignator65=T_R26
-ParamVariation66=ParameterName=Status|VariantValue=Preferred
+ParamVariation66=ParameterName=Value|VariantValue=0
 ParamDesignator66=T_R26
-ParamVariation67=ParameterName=Value|VariantValue=0
-ParamDesignator67=T_R26
-Variation40=Designator=T_IC10|UniqueId=\HFXIRERH\IRMETPCO|Kind=1|AlternatePart==Device
-ParamVariation68=ParameterName=Comment|VariantValue==Device
-ParamDesignator68=T_IC10
-ParamVariationCount=68
+Variation39=Designator=T_IC10|UniqueId=\HFXIRERH\IRMETPCO|Kind=1|AlternatePart==Device
+ParamVariation67=ParameterName=Comment|VariantValue==Device
+ParamDesignator67=T_IC10
+ParamVariationCount=67
 
 [ProjectVariant2]
 UniqueId=9B67D6B0-16CF-46F1-A082-28F39AAF0D0C
@@ -583,37 +580,33 @@ ParamVariation6=ParameterName=Comment|VariantValue==Familly
 ParamDesignator6=T_J3
 ParamVariationCount=6
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Grabber\Design Rule Check - Grabber_DIOT.html
-DItemRevisionGUID=
-
 [Parameter1]
-Name=P_version
-Value=2.0.0
+Name=P_copyright_owner
+Value=WUT ISE 2024-2025 · Technosystem 2025-2026
 
 [Parameter2]
-Name=P_template_version
-Value=1.4
-
-[Parameter3]
-Name=P_release_reviewers
-Value=Marcin Kiepiela (TS), Marta Fąfara (TS)
-
-[Parameter4]
-Name=P_release_owner
-Value=Krzysztof Belewicz (ISE WUT)
-
-[Parameter5]
-Name=P_release_designers
-Value=Krzysztof Belewicz (ISE WUT), Grzegorz Kasprowicz (ISE WUT)
-
-[Parameter6]
 Name=P_github_link
 Value=https://github.com/sinara-hw/Grabber
 
+[Parameter3]
+Name=P_release_designers
+Value=Krzysztof Belewicz (WUT ISE)
+
+[Parameter4]
+Name=P_release_owner
+Value=Mikołaj Sowiński (TS)
+
+[Parameter5]
+Name=P_release_reviewers
+Value=Maciej Przybysz (TS), Marta Fąfara (TS)
+
+[Parameter6]
+Name=P_template_version
+Value=1.4
+
 [Parameter7]
-Name=P_copyright_owner
-Value=WUT ISE 2024-2025 · Technosystem 2025-2026
+Name=P_version
+Value=2.0
 
 [Configuration1]
 Name=Sources
